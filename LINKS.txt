@@ -1,5 +1,0 @@
-https://data.gov.sg/dataset/sunshine-duration-monthly-mean-daily-duration
-https://data.gov.sg/dataset/relative-humidity-monthly-mean
-https://data.gov.sg/dataset/surface-air-temperature-monthly-mean
-https://data.gov.sg/dataset/rainfall-monthly-total
-https://data.gov.sg/dataset/rainfall-monthly-number-of-rain-days
